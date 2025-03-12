@@ -1,9 +1,9 @@
 # 💫 About Me:
--  Hi, I’m @issoupewd<br>-  I'm interested in wired and wireless transmissions, network systems, electronics,  and physics, and I'm willing to combine my knowledge to develop and make projects about my interests.<br>- Contact me on [LinKedin](https://www.linkedin.com/in/ilyes-amokrane-lezzoum/)
+-  Hi, I’m @issoupewd<br>-  I'm interested in wired and wireless transmissions, network systems, electronics,  and physics, and I'm willing to combine my knowledge to develop and make projects about my interests.<br>
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/issoupewd433) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/issoupewd433) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyes-amokrane-lezzoum) 
 
 # 💻 Tech Stack:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
@@ -17,7 +17,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=issoupewd&icon=2&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <!---
 issoupewd/issoupewd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

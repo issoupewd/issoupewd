@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=800080&text=Hallo%20,WLC%20to%20issoupewd%20little%20thing&textBg=false&fontSize=50&fontColor=00000&reversal=false&fontAlignY=23&section=header"/>
+</p>
+
 # 💫 About Me:
 Hi, I’m @issoupewd<br>  I'm interested in wired and wireless transmissions, network systems, electronics,  and physics, and I'm willing to combine my knowledge to develop and make projects about my interests.<br>
 

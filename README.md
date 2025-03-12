@@ -53,9 +53,9 @@ I'm interested in wired and wireless transmissions, network systems, electronics
         <img src="https://visitcount.itsvg.in/api?id=issoupewd&icon=2&color=2"/>
     </a>
 </p>
-
+<h1 align="center"> It is All bout Frequencies:</h1>
 <p align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGkzZHZwanRrenRwa2J5ZzR6NHNydXk5MXNwNG9oMzVzbTl4M3p6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ld77zD3fF3Run8olIt/giphy.gif" alt="mando"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl5NTVpa3AxZ3hpOTB3dGI3YmFtbDFidjBuN3V0dTE2Nm5qbmN0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMxnyLqku0Ac6qY/giphy.gif" alt="mando"/>
 </p>
 
 <!---

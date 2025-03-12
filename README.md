@@ -7,7 +7,11 @@ Hi, I’m @issoupewd<br>  I'm interested in wired and wireless transmissions, ne
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/issoupewd433) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyes-amokrane-lezzoum) 
+
+<p align="left">
+<a href="https://linkedin.com/in/ilyes-amokrane-lezzoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyes-amokrane-lezzoum" height="30" width="40" /></a>
+<a href="https://issoupewd433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="issoupewd433" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 

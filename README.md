@@ -1,5 +1,5 @@
 # 💫 About Me:
--  Hi, I’m @issoupewd<br>-  I'm interested in wired and wireless transmissions, network systems, electronics,  and physics, and I'm willing to combine my knowledge to develop and make projects about my interests.<br>
+Hi, I’m @issoupewd<br>-  I'm interested in wired and wireless transmissions, network systems, electronics,  and physics, and I'm willing to combine my knowledge to develop and make projects about my interests.<br>
 
 
 ## 🌐 Socials:

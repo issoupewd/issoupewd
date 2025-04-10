@@ -54,6 +54,10 @@ I'm interested in wired and wireless transmissions, network systems, electronics
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl5NTVpa3AxZ3hpOTB3dGI3YmFtbDFidjBuN3V0dTE2Nm5qbmN0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMxnyLqku0Ac6qY/giphy.gif" alt="mando"/>
 </p>
 
+<p align="center">
+    <img src="https://cdn.discordapp.com/attachments/668870276292804608/1359929423750627339/commonsideeffects_001-ezgif.com-video-to-gif-converter_2.gif?ex=67f94478&is=67f7f2f8&hm=b8e265cd1c86274e4a54eb07c10cb6e986bcba6ce699b6dc333e97f28aa6dba9&if" alt="mando"/>
+</p>
+
 <!---
 issoupewd/issoupewd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

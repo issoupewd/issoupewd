@@ -5,7 +5,8 @@
 <h1 align="center"> About Me:</h1>
 <p align="center">
 Hi, I’m @issoupewd<br>
-I'm interested in wired and wireless transmissions, network systems, electronics, and physics, and I'm willing to combine my knowledge to develop and make projects about my interests.<br>
+I'm interested in wired and wireless transmissions, network systems, electronics, and physics, and I'm willing to combine my knowledge to develop and make projects about my interests
+  https://cv.issoupewd.tech .<br>
 </p>
 
 <h2 align="center"> Socials:</h2>
